@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void lanzaAndatela(View view){
-        Intent intent = new Intent (this, RutasAndatela.class);
+        Intent intent = new Intent (this, mapaPrueba.class);
         startActivity(intent);
     }
 }

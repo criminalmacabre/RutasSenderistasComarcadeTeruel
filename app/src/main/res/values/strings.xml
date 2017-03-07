@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Rutas Senderistas Comarca de Teruel</string>
     <string name="texto_boton_andatela">Ruta Andatela</string>
+    <string name="title_activity_mapa_prueba">Mapa de algun lado de sarrion</string>
 </resources>
