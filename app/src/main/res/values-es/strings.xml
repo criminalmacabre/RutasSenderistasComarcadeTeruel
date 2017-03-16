@@ -2,7 +2,6 @@
 <resources>
     <string name="app_name">Rutas Senderistas Comarca de Teruel</string>
     <string name="texto_boton_andatela">Ruta Andatela</string>
-    <string name="texto_boton_senderos_estrella">Senderos Estrella</string>
     <string name="senderos_gran_recorrido">Senderos de gran recorrido</string>
     <string name="senderos_peque_recorrido">Senderos de pequeño recorrido</string>
     <string name="rutaslocales">Rutas Locales</string>

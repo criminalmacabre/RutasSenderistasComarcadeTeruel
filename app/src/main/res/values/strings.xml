@@ -2,8 +2,14 @@
     <string name="app_name">Rutas Senderistas Comarca de Teruel</string>
     <string name="texto_boton_andatela">Ruta Andatela</string>
     <string name="title_activity_rutas_andatela">Rutas Ándatela</string>
-    <string name="texto_boton_senderos_estrella">Senderos Estrella</string>
     <string name="senderos_gran_recorrido">Senderos de gran recorrido</string>
     <string name="senderos_peque_recorrido">Senderos de pequeño recorrido</string>
     <string name="rutaslocales">Rutas Locales</string>
+    <string name="boton1estrella">Sendero por Sierra Palomera (Torremocha del Jiloca)</string>
+    <string name="boton2estrella">Sendero del Barranco de la Hoz (Corbalán)</string>
+    <string name="boton3estrella">Sendero Alto de la Serretilla - Barranco de Mascarón (Argente)</string>
+    <string name="boton4estrella">Sendero del Barranco Cardoso (Almohaja)</string>
+    <string name="boton5estrella">Ruta de la Virgen del Campo: Galve - Jorcas (PR - TE 51)</string>
+    <string name="boton6estrella">Sendero de El Carrascal (Lidón)</string>
+    <string name="boton7estrella">Ruta del Nacimiento del Río Mijares: Cedrillas</string>
 </resources>
