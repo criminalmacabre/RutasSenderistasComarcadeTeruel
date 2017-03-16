@@ -31,101 +31,101 @@
                 android:alpha="0.80"
                 android:text="@string/boton1estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton2estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton2estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton3estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton3estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton4estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton4estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton5estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton5estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton6estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton6estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton7estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton7estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton8estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton8estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton9estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton9estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton10estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton10estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton11estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton11estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton12estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton12estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton13estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton13estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton14estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton14estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton15estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton15estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton16estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton16estrella" />
             <Button
-                android:id="@+id/boton1estrella"
+                android:id="@+id/boton17estrella"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton17estrella" />
         </LinearLayout>
 
     </ScrollView>
