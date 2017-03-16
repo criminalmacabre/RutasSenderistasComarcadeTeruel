@@ -32,21 +32,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:alpha="0.80"
-            android:text="@string/senderos_gran_recorrido" />
+            android:text="@string/boton2estrella" />
 
         <Button
             android:id="@+id/senderospequerecorrido"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:alpha="0.80"
-            android:text="@string/senderos_peque_recorrido" />
+            android:text="@string/boton3estrella" />
 
         <Button
             android:id="@+id/rutaslocales"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:alpha="0.80"
-            android:text="@string/rutaslocales" />
+            android:text="@string/boton4estrella" />
 
     </LinearLayout>
 
