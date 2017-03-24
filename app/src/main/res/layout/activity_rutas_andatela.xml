@@ -29,7 +29,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha="0.80"
-                android:text="@string/boton1estrella" />
+                android:text="@string/boton1estrella"
+                android:onClick="lanzaMapilla"
+                />
             <Button
                 android:id="@+id/boton2estrella"
                 android:layout_width="match_parent"
