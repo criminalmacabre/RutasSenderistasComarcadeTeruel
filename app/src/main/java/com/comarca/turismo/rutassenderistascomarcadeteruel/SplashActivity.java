@@ -1,3 +1,9 @@
+
+/*
+ * CC BY Alberto Royuela Heras y Guillermo Royuela Heras 2017
+ * Creative Commons may be contacted at creativecommons.org.
+ */
+
 package com.comarca.turismo.rutassenderistascomarcadeteruel;
 
 import android.content.Intent;
